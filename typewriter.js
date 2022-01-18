@@ -10,6 +10,6 @@ for (const char of sentence) {
   }, delay);
   // increment the delay outside of the loop, will delay each character separately
   delay += 100;
-  process.stdout.write("\n");
+  // process.stdout.write("\n");
 }
-// console.log("\n");
+console.log("\n");
